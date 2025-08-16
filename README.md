@@ -1,6 +1,4 @@
-# MY Responsive Website
- This is a simple responsive website where buttons and content look good on mobile, tablet, and desktop.
- 
+
 # 🎮 Simon Says Game
 
 A fun and interactive memory game where players repeat the sequence of colors shown by the computer.
