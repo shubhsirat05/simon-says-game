@@ -1,3 +1,4 @@
+# Responsive website for Desktop, Mobile and Tablets.
 
 # 🎮 Simon Says Game
 
